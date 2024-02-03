@@ -1,0 +1,1 @@
+f = open("space.txt").re
